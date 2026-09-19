@@ -1,0 +1,215 @@
+[
+  {
+    "id": "01-gau-nhoi-bong-vai-lanh",
+    "name": "Gấu nhồi bông vải lanh",
+    "category": "Đồ thủ công",
+    "images": [
+      "/assets/products/01-gau-nhoi-bong-vai-lanh/01.webp",
+      "/assets/products/01-gau-nhoi-bong-vai-lanh/02.webp",
+      "/assets/products/01-gau-nhoi-bong-vai-lanh/03.webp",
+      "/assets/products/01-gau-nhoi-bong-vai-lanh/04.webp",
+      "/assets/products/01-gau-nhoi-bong-vai-lanh/05.webp"
+    ]
+  },
+  {
+    "id": "02-so-tay-vai-lanh-co-lon",
+    "name": "Sổ tay vải lanh (Cỡ lớn)",
+    "category": "Đồ thủ công",
+    "images": [
+      "/assets/products/02-so-tay-vai-lanh-co-lon/01.webp",
+      "/assets/products/02-so-tay-vai-lanh-co-lon/02.webp",
+      "/assets/products/02-so-tay-vai-lanh-co-lon/03.webp",
+      "/assets/products/02-so-tay-vai-lanh-co-lon/04.webp",
+      "/assets/products/02-so-tay-vai-lanh-co-lon/05.webp"
+    ]
+  },
+  {
+    "id": "03-so-tay-vai-lanh-co-nho",
+    "name": "Sổ tay vải lanh (Cỡ nhỏ)",
+    "category": "Đồ thủ công",
+    "images": [
+      "/assets/products/03-so-tay-vai-lanh-co-nho/01.webp",
+      "/assets/products/03-so-tay-vai-lanh-co-nho/02.webp",
+      "/assets/products/03-so-tay-vai-lanh-co-nho/03.webp",
+      "/assets/products/03-so-tay-vai-lanh-co-nho/04.webp",
+      "/assets/products/03-so-tay-vai-lanh-co-nho/05.webp"
+    ]
+  },
+  {
+    "id": "04-so-tay-vai-lanh-co-vua",
+    "name": "Sổ tay vải lanh (Cỡ vừa)",
+    "category": "Đồ thủ công",
+    "images": [
+      "/assets/products/04-so-tay-vai-lanh-co-vua/01.webp",
+      "/assets/products/04-so-tay-vai-lanh-co-vua/02.webp",
+      "/assets/products/04-so-tay-vai-lanh-co-vua/03.webp",
+      "/assets/products/04-so-tay-vai-lanh-co-vua/04.webp",
+      "/assets/products/04-so-tay-vai-lanh-co-vua/05.webp"
+    ]
+  },
+  {
+    "id": "05-tui-rut-day-nho-gon",
+    "name": "Túi rút dây nhỏ gọn",
+    "category": "Túi & phụ kiện",
+    "images": [
+      "/assets/products/05-tui-rut-day-nho-gon/01.webp",
+      "/assets/products/05-tui-rut-day-nho-gon/02.webp",
+      "/assets/products/05-tui-rut-day-nho-gon/03.webp",
+      "/assets/products/05-tui-rut-day-nho-gon/04.webp",
+      "/assets/products/05-tui-rut-day-nho-gon/05.webp"
+    ]
+  },
+  {
+    "id": "06-tui-eo-cheo-mau-1",
+    "name": "Túi đeo chéo (Mẫu 1)",
+    "category": "Túi & phụ kiện",
+    "images": [
+      "/assets/products/06-tui-eo-cheo-mau-1/01.webp",
+      "/assets/products/06-tui-eo-cheo-mau-1/02.webp",
+      "/assets/products/06-tui-eo-cheo-mau-1/03.webp",
+      "/assets/products/06-tui-eo-cheo-mau-1/04.webp",
+      "/assets/products/06-tui-eo-cheo-mau-1/05.webp"
+    ]
+  },
+  {
+    "id": "07-tui-eo-cheo-mau-2",
+    "name": "Túi đeo chéo (Mẫu 2)",
+    "category": "Túi & phụ kiện",
+    "images": [
+      "/assets/products/07-tui-eo-cheo-mau-2/01.webp",
+      "/assets/products/07-tui-eo-cheo-mau-2/02.webp",
+      "/assets/products/07-tui-eo-cheo-mau-2/03.webp",
+      "/assets/products/07-tui-eo-cheo-mau-2/04.webp",
+      "/assets/products/07-tui-eo-cheo-mau-2/05.webp"
+    ]
+  },
+  {
+    "id": "08-tui-eo-cheo-mau-3",
+    "name": "Túi đeo chéo (mẫu 3)",
+    "category": "Túi & phụ kiện",
+    "images": [
+      "/assets/products/08-tui-eo-cheo-mau-3/01.webp",
+      "/assets/products/08-tui-eo-cheo-mau-3/02.webp",
+      "/assets/products/08-tui-eo-cheo-mau-3/03.webp",
+      "/assets/products/08-tui-eo-cheo-mau-3/04.webp",
+      "/assets/products/08-tui-eo-cheo-mau-3/05.webp",
+      "/assets/products/08-tui-eo-cheo-mau-3/06.webp"
+    ]
+  },
+  {
+    "id": "09-tui-eo-cheo-mau-4",
+    "name": "Túi đeo chéo (mẫu 4)",
+    "category": "Túi & phụ kiện",
+    "images": [
+      "/assets/products/09-tui-eo-cheo-mau-4/01.webp",
+      "/assets/products/09-tui-eo-cheo-mau-4/02.webp",
+      "/assets/products/09-tui-eo-cheo-mau-4/03.webp",
+      "/assets/products/09-tui-eo-cheo-mau-4/04.webp",
+      "/assets/products/09-tui-eo-cheo-mau-4/05.webp"
+    ]
+  },
+  {
+    "id": "10-tui-eo-cheo-mau-5",
+    "name": "Túi đeo chéo (mẫu 5)",
+    "category": "Túi & phụ kiện",
+    "images": [
+      "/assets/products/10-tui-eo-cheo-mau-5/01.webp",
+      "/assets/products/10-tui-eo-cheo-mau-5/02.webp",
+      "/assets/products/10-tui-eo-cheo-mau-5/03.webp",
+      "/assets/products/10-tui-eo-cheo-mau-5/04.webp",
+      "/assets/products/10-tui-eo-cheo-mau-5/05.webp",
+      "/assets/products/10-tui-eo-cheo-mau-5/06.webp"
+    ]
+  },
+  {
+    "id": "11-tui-eo-cheo-mau-6",
+    "name": "Túi đeo chéo (mẫu 6)",
+    "category": "Túi & phụ kiện",
+    "images": [
+      "/assets/products/11-tui-eo-cheo-mau-6/01.webp",
+      "/assets/products/11-tui-eo-cheo-mau-6/02.webp",
+      "/assets/products/11-tui-eo-cheo-mau-6/03.webp",
+      "/assets/products/11-tui-eo-cheo-mau-6/04.webp",
+      "/assets/products/11-tui-eo-cheo-mau-6/05.webp"
+    ]
+  },
+  {
+    "id": "12-tui-eo-eo",
+    "name": "Túi đeo eo",
+    "category": "Túi & phụ kiện",
+    "images": [
+      "/assets/products/12-tui-eo-eo/01.webp",
+      "/assets/products/12-tui-eo-eo/02.webp",
+      "/assets/products/12-tui-eo-eo/03.webp",
+      "/assets/products/12-tui-eo-eo/04.webp",
+      "/assets/products/12-tui-eo-eo/05.webp"
+    ]
+  },
+  {
+    "id": "13-vo-goi-vai-lanh",
+    "name": "Vỏ gối vải lanh",
+    "category": "Đồ thủ công",
+    "images": [
+      "/assets/products/13-vo-goi-vai-lanh/01.webp",
+      "/assets/products/13-vo-goi-vai-lanh/02.webp",
+      "/assets/products/13-vo-goi-vai-lanh/03.webp",
+      "/assets/products/13-vo-goi-vai-lanh/04.webp",
+      "/assets/products/13-vo-goi-vai-lanh/05.webp"
+    ]
+  },
+  {
+    "id": "14-ao-dai-than",
+    "name": "Áo dài thân",
+    "category": "Trang phục",
+    "images": [
+      "/assets/products/14-ao-dai-than/01.webp",
+      "/assets/products/14-ao-dai-than/02.webp",
+      "/assets/products/14-ao-dai-than/03.webp"
+    ]
+  },
+  {
+    "id": "15-ao-vai-lanh",
+    "name": "Áo vải lanh",
+    "category": "Trang phục",
+    "images": [
+      "/assets/products/15-ao-vai-lanh/01.webp",
+      "/assets/products/15-ao-vai-lanh/02.webp",
+      "/assets/products/15-ao-vai-lanh/03.webp",
+      "/assets/products/15-ao-vai-lanh/04.webp",
+      "/assets/products/15-ao-vai-lanh/05.webp",
+      "/assets/products/15-ao-vai-lanh/06.webp"
+    ]
+  },
+  {
+    "id": "16-ao-vai-lanh-mau-1",
+    "name": "Áo vải lanh (mẫu 1)",
+    "category": "Trang phục",
+    "images": [
+      "/assets/products/16-ao-vai-lanh-mau-1/01.webp",
+      "/assets/products/16-ao-vai-lanh-mau-1/02.webp",
+      "/assets/products/16-ao-vai-lanh-mau-1/03.webp"
+    ]
+  },
+  {
+    "id": "17-ao-vai-lanh-mau-2",
+    "name": "Áo vải lanh (mẫu 2)",
+    "category": "Trang phục",
+    "images": [
+      "/assets/products/17-ao-vai-lanh-mau-2/01.webp",
+      "/assets/products/17-ao-vai-lanh-mau-2/02.webp"
+    ]
+  },
+  {
+    "id": "18-ao-vai-lanh-mau-3",
+    "name": "Áo vải lanh (mẫu 3)",
+    "category": "Trang phục",
+    "images": [
+      "/assets/products/18-ao-vai-lanh-mau-3/01.webp",
+      "/assets/products/18-ao-vai-lanh-mau-3/02.webp",
+      "/assets/products/18-ao-vai-lanh-mau-3/03.webp",
+      "/assets/products/18-ao-vai-lanh-mau-3/04.webp",
+      "/assets/products/18-ao-vai-lanh-mau-3/05.webp",
+      "/assets/products/18-ao-vai-lanh-mau-3/06.webp"
+    ]
+  }
+]
