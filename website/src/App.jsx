@@ -107,7 +107,7 @@ function ScannerModal({ open, onClose }) {
         <div className={stage === "result" ? "scanner-result is-visible" : "scanner-result"} aria-hidden={stage !== "result"}>
           <p className="eyebrow">Bước 02 · Nhận thông điệp</p>
           <div className="motif-preview">
-            <img src="/assets/home/motif.webp" alt="Họa tiết xoắn ốc tượng trưng cho mâm cơm" />
+            <img src="/assets/home/new-pattern.webp" alt="Họa tiết hình thoi màu vàng trên nền chàm" />
           </div>
           <h3>Biểu tượng mâm cơm</h3>
           <dl>
@@ -609,13 +609,17 @@ function ProductsPage() {
             <div className="purchase-facts">
               <div>
                 <span>Nơi sản xuất</span>
-                <strong>Làng văn hóa Lùng Tám</strong>
-                <p>Xã Lùng Tám, huyện Quản Bạ, tỉnh Hà Giang.</p>
+                <strong>Hợp tác xã Lùng Tám</strong>
+                <p>Xã Lùng Tám, huyện Quản Bạ, tỉnh Hà Giang</p>
               </div>
               <div>
-                <span>Gợi ý mua hàng</span>
-                <strong>Mua trực tiếp tại làng</strong>
-                <p>Tìm hiểu người làm, chất liệu và câu chuyện của từng sản phẩm trước khi chọn mua.</p>
+                <span>Gợi ý mua hàng:</span>
+                <strong>Đặt mua tại</strong>
+                <div className="purchase-links">
+                  <p>Fanpage: <a href="https://www.facebook.com/profile.php?id=100063601089739" target="_blank" rel="noreferrer">Làng dệt lanh thổ cẩm Lùng Tám Hà Giang</a></p>
+                  <p>Fanpage: <a href="https://www.facebook.com/profile.php?id=100094653467670" target="_blank" rel="noreferrer">HTX Sản Xuất Vải Lanh Truyền Thống Hợp Tiến - Xã Lùng Tám</a></p>
+                  <p>Tiktok: <a href="https://www.tiktok.com/@hmongbrocade2" target="_blank" rel="noreferrer">Hmongbrocade</a></p>
+                </div>
               </div>
             </div>
             <a className="primary-button dark-button" href={MAPS_URL} target="_blank" rel="noreferrer">Xem bản đồ chỉ đường <span>↗</span></a>

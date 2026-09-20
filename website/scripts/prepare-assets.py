@@ -73,6 +73,13 @@ def prepare_sections() -> None:
             save_webp(SOURCE / folder_name / filename, OUTPUT / target, max_edge, 84)
 
 
+def prepare_requested_assets() -> None:
+    source = PROJECT / "public" / "images" / "newPattern.png"
+    if not source.exists():
+        raise FileNotFoundError(f"Missing requested pattern image: {source}")
+    save_webp(source, OUTPUT / "home" / "new-pattern.webp", 1200, 88)
+
+
 def prepare_products() -> list[dict[str, object]]:
     product_root = SOURCE / "DANH MỤC SẢN PHẨM"
     products: list[dict[str, object]] = []
@@ -109,6 +116,7 @@ def main() -> None:
     if OUTPUT.exists():
         shutil.rmtree(OUTPUT)
     prepare_sections()
+    prepare_requested_assets()
     products = prepare_products()
     if len(products) != 18:
         raise RuntimeError(f"Expected 18 products, found {len(products)}")

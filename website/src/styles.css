@@ -934,6 +934,10 @@ img { display: block; max-width: 100%; }
 .purchase-facts { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; margin: 32px 0; }
 .purchase-facts > div { padding: 20px 0; border-top: 1px solid rgba(16, 41, 44, 0.32); }
 .purchase-facts p { margin: 10px 0 0; font-size: 15px; line-height: 1.55; }
+.purchase-links { display: grid; gap: 8px; margin-top: 10px; }
+.purchase-links p { margin: 0; }
+.purchase-links a { color: inherit; font-weight: 700; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.purchase-links a:hover { color: var(--indigo); }
 
 @media (hover: none) {
   .carousel-control { opacity: 1; }
